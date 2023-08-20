@@ -2,9 +2,8 @@
 
 ## Elevate Your Captain, Trade the Future, Defend with Blockchain
 
-[Link to our DoraHacks Build Submission](https://oasys.framer.website/en](https://dorahacks.io/buidl/7083)
+[Link to our DoraHacks Build Submission](https://dorahacks.io/buidl/7083)
 
----
 ## Blockchain-Powered Tower Mastery
 
 This repository has everything you want to know about the RPD (Random Pirates Defense)  
